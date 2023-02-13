@@ -11,3 +11,4 @@
 >>`This script deletes all regular file`
 >>`This scriptn counts the number of directories and sub-directories in the current directory`
 >>`This script displays the 10 newest files in the current directory.`
+>>`This script takes a list of words as input and prints only words that appear exactly once.`
